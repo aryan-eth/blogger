@@ -1,50 +1,89 @@
 ---
-title: Weddings are basically funerals with cake
-date: 2021-09-03
-tags: [rick and morty, tv series]
+title: How to make a Computer Science resume
+date: 2021-05-08 15:03
+tags:
+  - computer science
+  - programming
+  - resume
+description: The right way to think when writing things in your resume!
 ---
 
-Weddings are basically funerals with cake. I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Those guys are inside you building a piece of shit Ethan!! They're inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. What about the reality where Hitler cured cancer, Morty? The answer is: Don't think about it. All right, all right, cool it! I see what's happening here. You're both young, you're both unsure about your place in the universe, and you both want to be Grandpa's favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen—I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa's concerned, you're both pieces of shit! Yeah. I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways.
 
-Listen, Morty, I hate to break it to you but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science. You're young, you have your whole life ahead of you, and your anal cavity is still taut yet malleable. He's not a hot girl. He can't just bail on his life and set up shop in someone else's. Listen, Morty, I hate to break it to you but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?
+* ## Templates
 
-## Image
+  * Career cup: https://www.careercup.com/resume
+  * Deedy resume: https://github.com/deedy/Deedy-Resume
+  * It's totally fine to have a simple resume. Nothing fancy is required - No images, colors, fancy fonts, headings, quotes, etc.
+* ## Action words
 
-![Rocket launch](/media/rocket.jpg)
+  * Make sure every line starts with an action word:
+  * * Eg: Worked on, Created, Added, Implemented, Discovered, Generated, Collaborated, Researched, Managed, etc.
+    * https://zety.com/blog/resume-action-words
+    * https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome
+* ## Work experience
 
-## Header
+  * Ideally 3-4 experiences with 2-3 points each.
+  * Make sure the dates are accurate - can also mention spring/summer/fall.
+  * Common headings: software engineer, web developer, mobile developer, intern etc.
+  * Add a line at the end for Tools: Angular, Flutter, Dart, Testing, something, something.
+  * Don't add things like: using VSCode, Vim, etc. No one wants to know your code editor preferences.
+  * You CAN add experiences outside of coding/computer science if you learnt something new and have space for it. It's better to have a real experience than nothing!
+  * Examples
+  * * Added some features using frontend technologies, which eventually went into production.
+    * Worked on something which brought the revenue up by some %.
+    * Implemented login functionality with authentication service using Firebase and Node JS.
+* ## Projects
 
-Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.
+  * Ideally 3-4 projects with 1-2 points each.
+  * Use school projects if you don't have any personal projects (start working :)).
+  * Mention the skills you learnt or used. Eg: HTML, CSS, JS, Git.
+  * It's fine to add other projects as well - maybe you did marketing for someone and helped them increase their numbers!
+  * Examples
+  * * [30dayscoding](https://30dayscoding.com): Made a website for computer science students preparing for coding interviews including an all in one technical interview guide.
+    * Created a landing page for the website to generate initial traffic before launch.
+    * Worked as a freelancer to create 3 pages using something, something.
 
-Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.
+![30 days coding](/media/92620717_660831287805466_7686787138125299712_n.png)
 
-## Unordered Lists
+* ## Education
 
-- Item 1
-- Item 2
-- Item 3
+  * A lot of people argue that education should come before work ex/projects - but here's the real deal: It doesn't matter.
+  * Add your degree, courses, clubs, activities, experiences, projects, etc. You can mention jobs/side things you did in your university.
+  * Eg: 
+  * * B.S. in Computer Science, 2020. 
+    * GPA: doesn't matter.
+* ## Skills
 
-## Ordered Lists
+  * Add programming languages, tech stacks that you've used/are learning.
+  * * Languages: Python; Java; Dart; JavaScript; Typescript.
+    * Technology: Android; Flutter; React Native.
+  * It's fine to fake-it-till-you-make-it when submitting your resume but make sure you know it before your interviews.
+  * You can also add soft skills - they help the resume parse through the ATS software sometimes. Eg: communication, leadership etc.
+* ## Summary
 
-1. Item 1
-2. Item 2
-3. Item 3
+  * Don't add a summary section unless you have space for it. Most resumes pass through an ATS software before coming in front of someone's eyes, so don't waste time on a summary.
+  * Generics things can be avoided most of the time. Everyone is a 'hardworking software engineer with excellent skills', don't add it here. Instead, add it in the skills section (if you have space). Eg: soft skills: communication, leadership, etc.
+* ## Links
 
-## Code Block
+  * Add links for your Github, linkedin, Angel list, Twitter profiles.
+  * A lot of times managers, recruiters look at these profiles and directly contact you from there, so it's a nice-to-have.
+  * Github: Add school projects (with permission) if you don't have any personal ones, or just fork other repositories which you like. Keep exploring!
+* ## Harsh reality
 
-```javascript
-// finds a given word in a string and replace with another one
-const findAndReplace = (string, wordToFind, wordToReplace) => {
-  return string.split(wordToFind).join(wordToReplace);
-};
+  * No one looks at your resume!
+  * * Recruiters or managers screen it after you've cleared your first round of online coding interviews.
+    * Even then, they will ask you to explain most things, like: 'what's your favorite project', or 'which tech stack are you most comfortable in' - they want you to explain it.
+  * Don't put in a lot of time
+  * * It's fine to have a decent resume, but preparing for interviews or actually making some projects is far more important.
+    * Apply to limited companies, prepare for those, and focus on clearing the interviews you get. Prepare well!
+    * Getting a first round interview from a hundred companies <<<< Getting an offer from 1 company after applying to 10.
+  * Don't pay someone to do a resume review
+  * * Ask your friends.
+    * Ask someone in your university - consultants, professors, etc.
+    * Lookout for free resources like this one.
+    * If you still need help, ping me on [Linkedin](https://www.linkedin.com/in/aryansingh2/)
+* Don't follow this blindly
 
-let result = findAndReplace('I like banana', 'banana', 'apple'); // I like apple
-```
+  * I'm just another random guy on the internet and all this comes from my personal experiences, so don't take it too seriously and feel free to make tweaks according to what you feel is the best. Just here to help! Good luck
 
-## Quoted Text
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+Your resume doesn't define you, you're much more than that and if you're looking for a job/internship - I hope you get it soon! Keep working hard. Checkout [](https://30dayscoding.com)[30DaysCoding.com](https://30dayscoding.com/) if you're preparing for coding interviews.
