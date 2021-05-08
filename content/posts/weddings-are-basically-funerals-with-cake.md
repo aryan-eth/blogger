@@ -2,9 +2,8 @@
 title: How to make a Computer Science resume
 date: 2021-05-08 15:03
 tags:
-  - computer science
-  - programming
   - resume
+  - computer science
 description: The right way to think when writing things in your resume!
 ---
 * ## Templates
