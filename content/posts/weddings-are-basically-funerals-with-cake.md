@@ -7,19 +7,21 @@ tags:
   - resume
 description: The right way to think when writing things in your resume!
 ---
-
-
 * ## Templates
 
   * Career cup: https://www.careercup.com/resume
   * Deedy resume: https://github.com/deedy/Deedy-Resume
   * It's totally fine to have a simple resume. Nothing fancy is required - No images, colors, fancy fonts, headings, quotes, etc.
+
+
 * ## Action words
 
   * Make sure every line starts with an action word:
   * * Eg: Worked on, Created, Added, Implemented, Discovered, Generated, Collaborated, Researched, Managed, etc.
     * https://zety.com/blog/resume-action-words
     * https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome
+
+
 * ## Work experience
 
   * Ideally 3-4 experiences with 2-3 points each.
@@ -32,6 +34,8 @@ description: The right way to think when writing things in your resume!
   * * Added some features using frontend technologies, which eventually went into production.
     * Worked on something which brought the revenue up by some %.
     * Implemented login functionality with authentication service using Firebase and Node JS.
+
+
 * ## Projects
 
   * Ideally 3-4 projects with 1-2 points each.
@@ -43,7 +47,6 @@ description: The right way to think when writing things in your resume!
     * Created a landing page for the website to generate initial traffic before launch.
     * Worked as a freelancer to create 3 pages using something, something.
 
-![30 days coding](/media/92620717_660831287805466_7686787138125299712_n.png)
 
 * ## Education
 
@@ -52,6 +55,8 @@ description: The right way to think when writing things in your resume!
   * Eg: 
   * * B.S. in Computer Science, 2020. 
     * GPA: doesn't matter.
+
+
 * ## Skills
 
   * Add programming languages, tech stacks that you've used/are learning.
@@ -59,15 +64,21 @@ description: The right way to think when writing things in your resume!
     * Technology: Android; Flutter; React Native.
   * It's fine to fake-it-till-you-make-it when submitting your resume but make sure you know it before your interviews.
   * You can also add soft skills - they help the resume parse through the ATS software sometimes. Eg: communication, leadership etc.
+
+
 * ## Summary
 
   * Don't add a summary section unless you have space for it. Most resumes pass through an ATS software before coming in front of someone's eyes, so don't waste time on a summary.
   * Generics things can be avoided most of the time. Everyone is a 'hardworking software engineer with excellent skills', don't add it here. Instead, add it in the skills section (if you have space). Eg: soft skills: communication, leadership, etc.
+
+
 * ## Links
 
   * Add links for your Github, linkedin, Angel list, Twitter profiles.
   * A lot of times managers, recruiters look at these profiles and directly contact you from there, so it's a nice-to-have.
   * Github: Add school projects (with permission) if you don't have any personal ones, or just fork other repositories which you like. Keep exploring!
+
+
 * ## Harsh reality
 
   * No one looks at your resume!
@@ -85,5 +96,7 @@ description: The right way to think when writing things in your resume!
 * Don't follow this blindly
 
   * I'm just another random guy on the internet and all this comes from my personal experiences, so don't take it too seriously and feel free to make tweaks according to what you feel is the best. Just here to help! Good luck
+
+
 
 Your resume doesn't define you, you're much more than that and if you're looking for a job/internship - I hope you get it soon! Keep working hard. Checkout [](https://30dayscoding.com)[30DaysCoding.com](https://30dayscoding.com/) if you're preparing for coding interviews.
